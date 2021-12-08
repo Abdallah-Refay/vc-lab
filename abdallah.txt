@@ -2,4 +2,9 @@ git init // initiating git repo
 touch abdallah.txt
 git add abdallah.txt
 git commit -m "abdallah.txt added"
+git add origin git@github.com:Abdallah-Refay/vc-lab.git
+ssh-keygen -t rsa -b 4096 -C "abdallah.refay1999@gmail.com"
 git push origin master  
+sudo nano abdallah.txt //edit file 
+git add .
+git commit -m "abdallah.txt edited"
