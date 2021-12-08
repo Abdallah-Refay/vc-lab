@@ -1,0 +1,5 @@
+git init // initiating git repo 
+touch abdallah.txt
+git add abdallah.txt
+git commit -m "abdallah.txt added"
+git push origin master  
