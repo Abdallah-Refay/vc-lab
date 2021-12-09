@@ -1,0 +1,2 @@
+locally : git tag -d <tag_name> 
+Remotely : git push --d origin tagname
