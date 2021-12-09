@@ -1,0 +1,2 @@
+local : git branch -d <branchName>
+remote : git push -d <remoteName> <branchName>
