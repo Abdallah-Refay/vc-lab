@@ -9,7 +9,7 @@
 ```
 sudo apt install git-all
 ```
-**Installing git on ubuntu**
+**Installing git on Red hat**
 ```
 sudo yum update
 
